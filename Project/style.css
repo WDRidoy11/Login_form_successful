@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    background: #ecf0f1;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form {
+    text-align: center;
+    background: #fff;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0px 0px 41px 27px #ddd;
+}
+
+input#mail,
+input#pword {
+    border-radius: 50px;
+}
+
+.BTN {
+    background: #ecf0f1;
+    color: #000;
+    font-size: 18px;
+    padding: 10px 63px;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    margin: 19px 0px 10px 10px;
+    box-shadow: none;
+}
